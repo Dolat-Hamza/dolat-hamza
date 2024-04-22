@@ -1,5 +1,6 @@
 <img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
-## Hi there 👋
+
+# Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on NextJS, Flutter, ReactJS, ChartJS, Java/Kotlin<br>👯 I’m looking to collaborate on NextJS, Flutter, ReactJS<br>🌱 I’m currently learning Flutter, Docker<br>💬 Ask me about anything<br><br>Dedicated software engineer with a solid track record of 2 years in web and Android development. Proficient in a range of modern front-end technologies, including HTML5, CSS3, TailwindCSS, JavaScript, React, NextJS, and Flutter. Known for meticulous coding practices, adhering to industry standards and best practices. Experienced in version control systems such as Git, ensuring efficient code management and seamless collaboration within cross-functional teams.<br><br>Adept at fostering effective communication and teamwork to consistently deliver high-quality software products within specified deadlines. Committed to continuous professional growth, keeping abreast of emerging technologies, and employing a proactive problem-solving approach to deliver innovative solutions that consistently exceed client expectations.<br><br>I am eager to collaborate on impactful projects that leverage my expertise and drive for excellence. Please feel free to reach out for further discussions on how I can contribute to your team's success.
