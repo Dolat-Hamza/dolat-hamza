@@ -118,7 +118,7 @@
 - 📈 **Impact**: 40% improvement in production efficiency
 - 🎯 **Challenges**: Complex algorithm optimization, Real-time data synchronization
 
-[![Job Shop Scheduler](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=job-shop-scheduler&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/job-shop-scheduler)
+[![Job Shop Scheduler](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=new-front-end&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/job-shop-scheduler)
 
 ### 🤖 AI Recruiter Platform
 **Intelligent Recruitment Management System**
@@ -127,7 +127,6 @@
 - 📈 **Impact**: 60% reduction in recruitment time
 - 🎯 **Challenges**: AI model integration, Complex workflow automation
 
-[![AI Recruiter](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=ai-recruiter&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/ai-recruiter)
 
 ### 📊 Wiser Machines Monitoring
 **Industrial IoT Monitoring Dashboard**
@@ -136,7 +135,7 @@
 - 📈 **Impact**: 35% reduction in downtime
 - 🎯 **Challenges**: Real-time data processing, Scalable architecture
 
-[![Wiser Machines](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=wiser-machines&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/wiser-machines)
+[![Wiser Machines](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=Wiser-Machines-Sage&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/wiser-machines)
 
 ### 🏥 Claims Guru Integration
 **AI-Powered Insurance Claims Processing**
@@ -145,16 +144,14 @@
 - 📈 **Impact**: 60% faster claim processing, 85% fraud detection accuracy
 - 🎯 **Challenges**: AI/ML integration, High-security requirements
 
-[![Claims Guru](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=claims-guru&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/claims-guru)
 
-### 📱 BAB GenAI Assistant
+### 📱 GenAI Assistant
 **Intelligent Virtual Assistant Platform**
 - 🔧 **Tech Stack**: Next.js, OpenAI APIs, Azure, TypeScript
 - ⚡ **Features**: Natural language processing, Multi-language support, Context awareness
 - 📈 **Impact**: 70% improvement in user engagement
 - 🎯 **Challenges**: NLP optimization, Multi-modal interactions
 
-[![BAB Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Dolat-Hamza&repo=bab-genai-assistant&theme=tokyonight&hide_border=true)](https://github.com/Dolat-Hamza/bab-genai-assistant)
 
 </div>
 
