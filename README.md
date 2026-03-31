@@ -36,7 +36,7 @@
 
 ### About
 
-3+ years building high-performance, security-compliant web apps and production SDKs. I specialize in React/Next.js, TypeScript, Node.js, and end-to-end DevOps infrastructure. Currently at **Mobiz Inc.** (AI content platforms) and contracting with **NavIQ** (US-based EdTech) where I wrote the Copilot SDK from scratch, built DevSecOps across 30+ repos, and drove SOC 2 compliance.
+3+ years building high-performance, security-compliant web apps and production SDKs. I specialize in React/Next.js, TypeScript, Node.js, and end-to-end DevOps infrastructure. Currently building AI content platforms and contracting on a US-based EdTech AI campus platform where I wrote the chatbot SDK from scratch, built DevSecOps across 30+ repos, and drove SOC 2 compliance.
 
 ---
 
@@ -64,7 +64,7 @@
 <tr>
 <td width="50%">
 
-**NavIQ Campus Copilot SDK**
+**Campus Copilot SDK**
 
 Production vanilla JS chatbot SDK built from scratch. Shadow DOM CSS isolation, SSE streaming, DOMPurify XSS sanitization, dynamic branding. Zero dependencies, ~180KB gzipped. Deployed across university campuses.
 
@@ -84,7 +84,7 @@ Complete DevSecOps across 30+ repos: GitLab CI/CD, Docker multi-stage builds, Se
 <tr>
 <td width="50%">
 
-**Mobiz Content Engine**
+**AI Content Engine**
 
 AI content platform — OpenAI integration, decision engineering, document processing, multi-LLM eval. Next.js 15 monorepo with Sentry monitoring. 20% faster loads, 50% reliability increase.
 
@@ -104,7 +104,7 @@ Real-time theft detection, live GPS, WebSocket feeds for petrol logistics. Reduc
 <tr>
 <td width="50%">
 
-**NavIQ Analytics Dashboard**
+**AI Analytics Dashboard**
 
 AI analytics for universities — executive summaries, student analysis, gap analysis, service quality. Integrated AI chat with TTS. Tenant-aware branding. 80%+ test coverage.
 
