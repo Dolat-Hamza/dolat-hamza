@@ -65,17 +65,15 @@ The walkthroughs below recreate features I shipped, using sample data, since the
   <img src="assets/experience-light.svg" alt="Experience: Mobiz Inc., Frontend Developer, Jul 2024 to now. CARE Pvt. Ltd. (Wiser Machines), Design Engineer (Full-Stack), Aug 2022 to Aug 2024." width="100%">
 </picture>
 
-<a href="https://dolat-hamza-portfolio.vercel.app/#work"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img src="assets/work-light.svg" alt="Selected work: embeddable AI chat widget, workflow component library, agent operations console, AI tax copilot, WebAR art viewer, portfolio with live AG-UI demo" width="100%">
-</picture></a>
+<p>
+  <a href="https://dolat-hamza-portfolio.vercel.app/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" alt="Selected work: embeddable AI chat widget, workflow component library, agent operations console, AI tax copilot, WebAR art viewer, portfolio with live AG-UI demo" width="100%"></picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
   <img src="assets/toolbox-light.svg" alt="Toolbox: React 19, Next.js, TypeScript, CopilotKit, AG-UI, MCP, A2A, Vercel AI SDK, Claude Agent SDK, Bedrock AgentCore, Node.js, FastAPI, Supabase, Postgres, Playwright, Docker and more" width="100%">
 </picture>
 
-<a href="mailto:dolathamza8019@gmail.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
-  <img src="assets/contact-light.svg" alt="Get in touch: dolathamza8019@gmail.com. B.S. Computer Science, COMSATS. Microsoft Certified: Azure Fundamentals." width="100%">
-</picture></a>
+<p>
+  <a href="mailto:dolathamza8019@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><img src="assets/contact-light.svg" alt="Get in touch: dolathamza8019@gmail.com. B.S. Computer Science, COMSATS. Microsoft Certified: Azure Fundamentals." width="100%"></picture></a>
+</p>
