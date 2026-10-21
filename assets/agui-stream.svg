@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Animated AG-UI event stream flowing from an agent to CopilotKit">
+  <style>
+    .node { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; font-weight: 600; fill: #eef0f6; text-anchor: middle; }
+    .lbl { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; fill: #8a91a6; text-anchor: middle; }
+    .pill { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11.5px; font-weight: 600; text-anchor: middle; }
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; fill: #8a91a6; }
+    .ev { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12.5px; font-weight: 600; }
+    .h { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #eef0f6; }
+    .lane { stroke: #2a3048; stroke-width: 2; stroke-dasharray: 6 6; animation: dash 1s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -12; } }
+    @keyframes row { 0%, 100% { opacity: .3; } 3%, 12% { opacity: 1; } 20% { opacity: .55; } }
+    .p0 { animation: fly0 10.0s 0.00s infinite; }
+    @keyframes fly0 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(725px); opacity: 1; } 12%, 100% { transform: translateX(725px); opacity: 0; } }
+    .r0 { animation: row 10.0s 0.60s infinite; }
+    .p1 { animation: fly1 10.0s 0.85s infinite; }
+    @keyframes fly1 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(702px); opacity: 1; } 12%, 100% { transform: translateX(702px); opacity: 0; } }
+    .r1 { animation: row 10.0s 1.45s infinite; }
+    .p2 { animation: fly2 10.0s 1.70s infinite; }
+    @keyframes fly2 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(673px); opacity: 1; } 12%, 100% { transform: translateX(673px); opacity: 0; } }
+    .r2 { animation: row 10.0s 2.30s infinite; }
+    .p3 { animation: fly3 10.0s 2.55s infinite; }
+    @keyframes fly3 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(658px); opacity: 1; } 12%, 100% { transform: translateX(658px); opacity: 0; } }
+    .r3 { animation: row 10.0s 3.15s infinite; }
+    .p4 { animation: fly4 10.0s 3.40s infinite; }
+    @keyframes fly4 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(695px); opacity: 1; } 12%, 100% { transform: translateX(695px); opacity: 0; } }
+    .r4 { animation: row 10.0s 4.00s infinite; }
+    .p5 { animation: fly5 10.0s 4.25s infinite; }
+    @keyframes fly5 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(702px); opacity: 1; } 12%, 100% { transform: translateX(702px); opacity: 0; } }
+    .r5 { animation: row 10.0s 4.85s infinite; }
+    .p6 { animation: fly6 10.0s 5.10s infinite; }
+    @keyframes fly6 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(710px); opacity: 1; } 12%, 100% { transform: translateX(710px); opacity: 0; } }
+    .r6 { animation: row 10.0s 5.70s infinite; }
+    .p7 { animation: fly7 10.0s 5.95s infinite; }
+    @keyframes fly7 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(725px); opacity: 1; } 12%, 100% { transform: translateX(725px); opacity: 0; } }
+    .r7 { animation: row 10.0s 6.55s infinite; }
+    .p8 { animation: fly8 10.0s 6.80s infinite; }
+    @keyframes fly8 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(688px); opacity: 1; } 12%, 100% { transform: translateX(688px); opacity: 0; } }
+    .r8 { animation: row 10.0s 7.40s infinite; }
+    .p9 { animation: fly9 10.0s 7.65s infinite; }
+    @keyframes fly9 { 0% { transform: translateX(0); opacity: 0; } 2% { opacity: 1; } 10% { transform: translateX(717px); opacity: 1; } 12%, 100% { transform: translateX(717px); opacity: 0; } }
+    .r9 { animation: row 10.0s 8.25s infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1200" height="300" rx="18" fill="#0f1220"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#2a3048"/>
+  <rect x="40" y="88" width="130" height="48" rx="10" fill="#161a2b" stroke="#2a3048"/><text class="node" x="105" y="118">Agent</text>
+  <rect x="1030" y="88" width="130" height="48" rx="10" fill="#161a2b" stroke="#2a3048"/><text class="node" x="1095" y="118">CopilotKit</text>
+  <line class="lane" x1="190" y1="112" x2="1010" y2="112"/>
+  <text class="lbl" x="600" y="70">AG-UI event stream</text>
+  <text class="h" x="40" y="40">One agent run, event by event</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#2a3048"/>
+  <g class="p0" style="transform: translateX(30px)"><rect x="190" y="101" width="95" height="22" rx="11" fill="#1a8f50"/><text x="238" y="116" class="pill" fill="#ffffff">RUN_STARTED</text></g><g class="p1" style="transform: translateX(151px)"><rect x="190" y="101" width="118" height="22" rx="11" fill="#8a3ffc"/><text x="249" y="116" class="pill" fill="#ffffff">STATE_SNAPSHOT</text></g><g class="p2" style="transform: translateX(295px)"><rect x="190" y="101" width="147" height="22" rx="11" fill="#8193ff"/><text x="264" y="116" class="pill" fill="#0f1220">TEXT_MESSAGE_START</text></g><g class="p3" style="transform: translateX(468px)"><rect x="190" y="101" width="162" height="22" rx="11" fill="#8193ff"/><text x="271" y="116" class="pill" fill="#0f1220">TEXT_MESSAGE_CONTENT</text></g><g class="p4" style="transform: translateX(656px)"><rect x="190" y="101" width="125" height="22" rx="11" fill="#b25e00"/><text x="252" y="116" class="pill" fill="#ffffff">TOOL_CALL_START</text></g><g class="p5" style="transform: translateX(0px); opacity: 0"><rect x="190" y="101" width="118" height="22" rx="11" fill="#b25e00"/><text x="249" y="116" class="pill" fill="#ffffff">TOOL_CALL_ARGS</text></g><g class="p6" style="transform: translateX(0px); opacity: 0"><rect x="190" y="101" width="110" height="22" rx="11" fill="#b25e00"/><text x="245" y="116" class="pill" fill="#ffffff">TOOL_CALL_END</text></g><g class="p7" style="transform: translateX(0px); opacity: 0"><rect x="190" y="101" width="95" height="22" rx="11" fill="#8a3ffc"/><text x="238" y="116" class="pill" fill="#ffffff">STATE_DELTA</text></g><g class="p8" style="transform: translateX(0px); opacity: 0"><rect x="190" y="101" width="132" height="22" rx="11" fill="#8193ff"/><text x="256" y="116" class="pill" fill="#0f1220">TEXT_MESSAGE_END</text></g><g class="p9" style="transform: translateX(0px); opacity: 0"><rect x="190" y="101" width="103" height="22" rx="11" fill="#1a8f50"/><text x="241" y="116" class="pill" fill="#ffffff">RUN_FINISHED</text></g>
+  <g class="r0"><text x="40" y="178" class="t">+    0 ms</text><text x="132" y="178" class="ev" fill="#1a8f50">RUN_STARTED</text></g><g class="r1"><text x="40" y="200" class="t">+  850 ms</text><text x="132" y="200" class="ev" fill="#8a3ffc">STATE_SNAPSHOT</text></g><g class="r2"><text x="40" y="222" class="t">+ 1700 ms</text><text x="132" y="222" class="ev" fill="#8193ff">TEXT_MESSAGE_START</text></g><g class="r3"><text x="40" y="244" class="t">+ 2550 ms</text><text x="132" y="244" class="ev" fill="#8193ff">TEXT_MESSAGE_CONTENT</text></g><g class="r4"><text x="40" y="266" class="t">+ 3400 ms</text><text x="132" y="266" class="ev" fill="#b25e00">TOOL_CALL_START</text></g><g class="r5"><text x="610" y="178" class="t">+ 4250 ms</text><text x="702" y="178" class="ev" fill="#b25e00">TOOL_CALL_ARGS</text></g><g class="r6"><text x="610" y="200" class="t">+ 5100 ms</text><text x="702" y="200" class="ev" fill="#b25e00">TOOL_CALL_END</text></g><g class="r7"><text x="610" y="222" class="t">+ 5950 ms</text><text x="702" y="222" class="ev" fill="#8a3ffc">STATE_DELTA</text></g><g class="r8"><text x="610" y="244" class="t">+ 6800 ms</text><text x="702" y="244" class="ev" fill="#8193ff">TEXT_MESSAGE_END</text></g><g class="r9"><text x="610" y="266" class="t">+ 7650 ms</text><text x="702" y="266" class="ev" fill="#1a8f50">RUN_FINISHED</text></g>
+</svg>
