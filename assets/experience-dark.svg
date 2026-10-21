@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="552" viewBox="0 0 900 552" role="img" aria-label="Experience: Frontend Developer at Mobiz since July 2024, leading 3 developers on AI agent interfaces. Design Engineer at CARE (Wiser Machines) from 2022 to 2024.">
+  <style>
+    .d { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; fill: #eef0f6; letter-spacing: -0.5px; }
+    .h { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; fill: #eef0f6; }
+    .b { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c3c8d6; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8a91a6; }
+    .a { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; fill: #8193ff; }
+    .am { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8193ff; }
+  </style>
+  <rect x=".5" y=".5" width="899" height="551" rx="16" fill="#0f1220" stroke="#2a3048"/>
+<text class="d" x="36" y="56" font-size="28">Experience</text>
+<line x1="44" y1="100" x2="44" y2="506" stroke="#2a3048" stroke-width="2"/>
+<circle cx="44" cy="100" r="6" fill="#8193ff"/>
+<text class="d" x="70" y="112" font-size="30">2024</text>
+<text class="m" x="70" y="134" font-size="12">Jul 2024 to now</text>
+<text class="h" x="240" y="108" font-size="20">Mobiz Inc.</text>
+<text class="a" x="240" y="132" font-size="14">Frontend Developer, Islamabad</text>
+<circle cx="246" cy="157" r="3" fill="#8193ff"/>
+<text class="b" x="260" y="162" font-size="14">Lead a team of 3 developers, mentored 2 junior developers and set up a spec-first</text>
+<text class="b" x="260" y="183" font-size="14">workflow for AI-assisted development.</text>
+<circle cx="246" cy="209" r="3" fill="#8193ff"/>
+<text class="b" x="260" y="214" font-size="14">Core developer of the company&#x27;s production AI agent interface (Next.js 15,</text>
+<text class="b" x="260" y="235" font-size="14">Electron, Turborepo).</text>
+<circle cx="246" cy="261" r="3" fill="#8193ff"/>
+<text class="b" x="260" y="266" font-size="14">Built a network-operations agent UI for a global pharmaceutical client, connected</text>
+<text class="b" x="260" y="287" font-size="14">to AWS Bedrock AgentCore.</text>
+<circle cx="246" cy="313" r="3" fill="#8193ff"/>
+<text class="b" x="260" y="318" font-size="14">Built frontends for an AI compliance platform for Saudi banks and a multi-agent</text>
+<text class="b" x="260" y="339" font-size="14">platform integrated with Dynamics 365, ServiceNow, Slack and Teams.</text>
+<circle cx="44" cy="400" r="6" fill="#8193ff"/>
+<text class="d" x="70" y="412" font-size="30">2022</text>
+<text class="m" x="70" y="434" font-size="12">Aug 2022 to Aug 2024</text>
+<text class="h" x="240" y="408" font-size="20">CARE Pvt. Ltd. (Wiser Machines)</text>
+<text class="a" x="240" y="432" font-size="14">Design Engineer (Full-Stack), Islamabad</text>
+<circle cx="246" cy="457" r="3" fill="#8193ff"/>
+<text class="b" x="260" y="462" font-size="14">Built the frontend of a manufacturing scheduling and machine-monitoring platform.</text>
+<circle cx="246" cy="488" r="3" fill="#8193ff"/>
+<text class="b" x="260" y="493" font-size="14">Built a real-time fleet-tracking dashboard and an Android SDK in Kotlin.</text>
+</svg>

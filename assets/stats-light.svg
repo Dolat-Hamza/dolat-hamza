@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="4+ years building production apps. Lead 3 developers at Mobiz. 105 components in a shared React library. 180 KB embeddable chat widget. 30k records in client data pipelines.">
+  <style>
+    .d { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; fill: #14161b; letter-spacing: -0.5px; }
+    .h { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; fill: #14161b; }
+    .b { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #3a3f4a; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #6c7380; }
+    .a { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; fill: #2b45e8; }
+    .am { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #2b45e8; }
+  </style>
+  <rect x=".5" y=".5" width="899" height="139" rx="16" fill="#f3f5f7" stroke="#d5dae1"/>
+<text class="d" x="28" y="66" font-size="36">4+</text>
+<text class="m" x="28" y="92" font-size="12">years building</text>
+<text class="m" x="28" y="108" font-size="12">production apps</text>
+<line x1="180" y1="22" x2="180" y2="118" stroke="#d5dae1"/>
+<text class="d" x="208" y="66" font-size="36">3</text>
+<text class="m" x="208" y="92" font-size="12">developers I lead</text>
+<text class="m" x="208" y="108" font-size="12">at Mobiz</text>
+<line x1="360" y1="22" x2="360" y2="118" stroke="#d5dae1"/>
+<text class="d" x="388" y="66" font-size="36">105</text>
+<text class="m" x="388" y="92" font-size="12">components in a</text>
+<text class="m" x="388" y="108" font-size="12">shared React library</text>
+<line x1="540" y1="22" x2="540" y2="118" stroke="#d5dae1"/>
+<text class="d" x="568" y="66" font-size="36">180 KB</text>
+<text class="m" x="568" y="92" font-size="12">embeddable chat</text>
+<text class="m" x="568" y="108" font-size="12">widget, gzipped</text>
+<line x1="720" y1="22" x2="720" y2="118" stroke="#d5dae1"/>
+<text class="d" x="748" y="66" font-size="36">30k</text>
+<text class="m" x="748" y="92" font-size="12">records in client</text>
+<text class="m" x="748" y="108" font-size="12">data pipelines</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="322" viewBox="0 0 900 322" role="img" aria-label="Toolbox. Frontend: React 19, Next.js, TypeScript, Tailwind, Redux Toolkit, React Flow, Storybook, three.js. AI and agents: CopilotKit, AG-UI, MCP, A2A, Vercel AI SDK, Claude Agent SDK, Bedrock AgentCore. Backend: Node.js, FastAPI, GraphQL, Supabase, Postgres, Redis. Shipping: Vitest, Playwright, Docker, GitHub Actions, GitLab CI, Vercel, Azure.">
+  <style>
+    .d { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; fill: #14161b; letter-spacing: -0.5px; }
+    .h { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; fill: #14161b; }
+    .b { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #3a3f4a; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #6c7380; }
+    .a { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; fill: #2b45e8; }
+    .am { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #2b45e8; }
+  </style>
+  <rect x=".5" y=".5" width="899" height="321" rx="16" fill="#f3f5f7" stroke="#d5dae1"/>
+<text class="d" x="28" y="56" font-size="28">Toolbox</text>
+<text class="m" x="28" y="109" font-size="12">Frontend</text>
+<rect x="150.0" y="92" width="75.6" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="187.8" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">React 19</text>
+<rect x="233.6" y="92" width="68.4" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="267.8" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Next.js</text>
+<rect x="310.0" y="92" width="90.0" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="355.0" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">TypeScript</text>
+<rect x="408.0" y="92" width="75.6" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="445.8" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Tailwind</text>
+<rect x="491.6" y="92" width="111.6" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="547.4" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Redux Toolkit</text>
+<rect x="611.2" y="92" width="90.0" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="656.2" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">React Flow</text>
+<rect x="709.2" y="92" width="82.8" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="750.6" y="107" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Storybook</text>
+<rect x="150.0" y="126" width="75.6" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="187.8" y="141" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">three.js</text>
+<text class="m" x="28" y="189" font-size="12">AI and agents</text>
+<rect x="150.0" y="172" width="90.0" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="195.0" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">CopilotKit</text>
+<rect x="248.0" y="172" width="54.0" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="275.0" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">AG-UI</text>
+<rect x="310.0" y="172" width="39.6" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="329.8" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">MCP</text>
+<rect x="357.6" y="172" width="39.6" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="377.4" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">A2A</text>
+<rect x="405.2" y="172" width="111.6" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="461.0" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">Vercel AI SDK</text>
+<rect x="524.8" y="172" width="133.2" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="591.4" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">Claude Agent SDK</text>
+<rect x="666.0" y="172" width="140.4" height="24" rx="12.0" fill="#2b45e8" stroke="#2b45e8"/><text x="736.2" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">Bedrock AgentCore</text>
+<text class="m" x="28" y="235" font-size="12">Backend</text>
+<rect x="150.0" y="218" width="68.4" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="184.2" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Node.js</text>
+<rect x="226.4" y="218" width="68.4" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="260.6" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">FastAPI</text>
+<rect x="302.8" y="218" width="68.4" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="337.0" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">GraphQL</text>
+<rect x="379.2" y="218" width="75.6" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="417.0" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Supabase</text>
+<rect x="462.8" y="218" width="75.6" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="500.6" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Postgres</text>
+<rect x="546.4" y="218" width="54.0" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="573.4" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Redis</text>
+<text class="m" x="28" y="281" font-size="12">Shipping</text>
+<rect x="150.0" y="264" width="61.2" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="180.6" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Vitest</text>
+<rect x="219.2" y="264" width="90.0" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="264.2" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Playwright</text>
+<rect x="317.2" y="264" width="61.2" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="347.8" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Docker</text>
+<rect x="386.4" y="264" width="118.8" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="445.8" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">GitHub Actions</text>
+<rect x="513.2" y="264" width="82.8" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="554.6" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">GitLab CI</text>
+<rect x="604.0" y="264" width="61.2" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="634.6" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Vercel</text>
+<rect x="673.2" y="264" width="54.0" height="24" rx="12.0" fill="#eef1f6" stroke="#d5dae1"/><text x="700.2" y="279" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3a3f4a">Azure</text>
+</svg>

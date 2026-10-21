@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Get in touch: dolathamza8019@gmail.com. Open to frontend and AI product roles.">
+  <style>
+    .d { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; fill: #eef0f6; letter-spacing: -0.5px; }
+    .h { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; fill: #eef0f6; }
+    .b { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c3c8d6; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8a91a6; }
+    .a { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; fill: #8193ff; }
+    .am { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8193ff; }
+  </style>
+  <rect x=".5" y=".5" width="899" height="179" rx="16" fill="#0f1220" stroke="#2a3048"/>
+<rect x="0" y="0" width="900" height="4" rx="2" fill="#8193ff"/>
+<text class="d" x="36" y="70" font-size="30">Get in touch</text>
+<text class="b" x="36" y="102" font-size="15">Open to frontend and AI product roles, remote from Islamabad.</text>
+<text class="a" x="36" y="146" font-size="22">dolathamza8019@gmail.com</text>
+<text class="m" x="864" y="102" font-size="12" text-anchor="end">B.S. Computer Science, COMSATS</text>
+<text class="m" x="864" y="122" font-size="12" text-anchor="end">Microsoft Certified: Azure Fundamentals</text>
+</svg>
